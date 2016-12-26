@@ -1,0 +1,5 @@
+.eggs/
+CoreNLP_install_models.egg-info/
+build/
+dist/
+*.pyc

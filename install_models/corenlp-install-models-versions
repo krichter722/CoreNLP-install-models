@@ -1,0 +1,33 @@
+{
+    "Arabic": {
+        "3.7.0": {
+            "url": "http://nlp.stanford.edu/software/stanford-arabic-corenlp-2016-10-31-models.jar",
+            "md5": "aac4be49816c5c64c60dc7f3524229c0"
+        }
+    }, "Chinese": {
+        "3.7.0": {
+            "url": "http://nlp.stanford.edu/software/stanford-chinese-corenlp-2016-10-31-models.jar",
+            "md5": "3cfc80e0edb90d242aba0f4ddb67c506"
+        }
+    }, "English": {
+        "3.7.0": {
+            "url": "http://nlp.stanford.edu/software/stanford-english-corenlp-2016-10-31-models.jar",
+            "md5": "7c71a27fede0d9971440371821b32635"
+        }
+    }, "French": {
+        "3.7.0": {
+            "url": "http://nlp.stanford.edu/software/stanford-french-corenlp-2016-10-31-models.jar",
+            "md5": "a13dce3003c440c3d310ebf0ee371073"
+        }
+    }, "German": {
+        "3.7.0": {
+            "url": "http://nlp.stanford.edu/software/stanford-german-corenlp-2016-10-31-models.jar",
+            "md5": "1a7d27ce0b38962b1e6d8d200e5a3860"
+        }
+    }, "Spanish": {
+        "3.7.0": {
+            "url": "http://nlp.stanford.edu/software/stanford-spanish-corenlp-2016-10-31-models.jar",
+            "md5": "598aeade7da94187a78fc1475de12d1e"
+        }
+    }
+}
